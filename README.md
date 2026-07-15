@@ -129,3 +129,5 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for what a PR needs to pass before it mer
 ## License
 
 GPL-3.0-or-later — see [LICENSE](LICENSE).
+
+*SentinelByte, 2026*
