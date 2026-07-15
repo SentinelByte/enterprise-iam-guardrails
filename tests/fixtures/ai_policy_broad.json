@@ -1,0 +1,17 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "BroadBedrockAccess",
+      "Effect": "Allow",
+      "Action": "bedrock:*",
+      "Resource": "*"
+    },
+    {
+      "Sid": "CanDisableLogging",
+      "Effect": "Allow",
+      "Action": "bedrock:DeleteModelInvocationLoggingConfiguration",
+      "Resource": "*"
+    }
+  ]
+}
